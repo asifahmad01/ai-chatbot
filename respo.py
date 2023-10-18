@@ -14,7 +14,6 @@ from flask_cors import CORS
 from dotenv import load_dotenv
 from pathlib import Path
 
-#import weaviate
 
 load_dotenv(Path("./.env"))
 app = Flask(__name__)
