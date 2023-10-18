@@ -1,0 +1,344 @@
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+04-Oct-19	9:00 - 9:30	Registration												
+04-Oct-19	9:30 - 10:45	Session 1	Inaugural	Setting the tone 	Dr V K Singh	vksingh@innovatiocuris.com	91 9871514722	Yes	Yes	Yes	Yes	InnovatioCuris	Managing Director	No presentation
+04-Oct-19	9:30 - 10:45	Session 1	Inaugural	Guest of Honor	Lt Gen (Dr) Rajesh Pant	ncsc@gov.in	91 1123747965	Yes	Yes	Yes	No	Government of India	National Cyber Security Coordinator	Not received
+04-Oct-19	9:30 - 10:45	Session 1	Inaugural	Keynote Address	Dr Yasmin ali Haque	yhaque@unicef.org 	91 9773500240	Yes	Yes	Yes	Yes	UNICEF	Representative to India	Not received
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+04-Oct-19	9:30 - 10:45	Session 1	Inaugural	Special Address	Karnal Singh	karnalsingh2@gmail.com	91 8800378080	Yes	No	No	No	Government of India	Ex Enforecement Director	Not received
+04-Oct-19	9:30 - 10:45	Session 1	Inaugural	Book Launch	Ravi Jangir	ravi.jangir@gmail.com	91 8792956056	Yes	Yes	Yes	Yes		Product Designer	No presentation
+04-Oct-19	9:30 - 10:45	Session 1	Inaugural	Vote of Thanks 	Sachin Gaur	sachin@innovatiocuris.com	91 9999979349	Yes	Yes	Yes	No	InnovatioCuris	Director operations	No presentation
+04-Oct-19	10:45 - 11:15	Post Session 1 Tea Break
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+04-Oct-19	11:15 - 12:45	Session 2	Innovations for hospitals and insurance companies	Keynote Address	Mohan Krishnan	mohank@iiml.ac.in	91 9717776718	Yes	Yes	Yes	No	IIM Lucknow	Board Member	Not received
+04-Oct-19	11:15 - 12:45	Session 2	Innovations for hospitals and insurance companies	Moderator	Dr Naveen Nishchal	drnishchaln@gmail.com	91 9818358589	Yes	Yes	Yes	No	Cygnus hospitals	Director ? Operations	No presentation
+04-Oct-19	11:15 - 12:45	Session 2	Innovations for hospitals and insurance companies	Speaker 1	Dr Rajni Wadhwa	Rajni.Wadhwa@reliancefoundation.org	91 2235557214 , 91 8928444489	Yes	Yes	Yes	Yes	ASMAN Foundation	Head- Project Management Unit	Not received
+04-Oct-19	11:15 - 12:45	Session 2	Innovations for hospitals and insurance companies	Speaker 2	Partha Dey	partha.dey@artemishospitals.com	91 9811310922	Yes	Yes	Yes	Yes	Artemis Hospital	Chief Operating Officer	No presentation
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+04-Oct-19	11:15 - 12:45	Session 2	Innovations for hospitals and insurance companies	Speaker 3	Ashwin Naik	ashwin.naik@gmail.com	91 7028084363	Yes	Yes	Yes	Yes	Vaatsalya Healthcare	Founder	Received
+04-Oct-19	11:15 - 12:45	Session 2	Innovations for hospitals and insurance companies	Speaker 4	Dr Sanjiv Kumar	drsanjivkumardixit@gmail.com	91 7838106363	Yes	Yes	Yes	Yes	IIHMR	Director	Not received
+04-Oct-19	11:15 - 12:45	Session 2	Innovations for hospitals and insurance companies	Speaker 5	Maj Gen Jagtar Singh	jagtarsingh76@yahoo.co.in	91 9868831775	Yes	Yes	Yes	Yes	HEAL Medical Endeavours	Principal consultant	Not received
+04-Oct-19	12:45 - 13:30	Post Session 2 Lunch Break
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+04-Oct-19	13:30 - 14:45	Session 3	Innovations in medical devices and diagnostics	Keynote Address	Dr Sonal Saxena	sonalsaxena3@gmail.com	91 9811349053	No	No	No	No	Lady Hardinge Medical College	"Director Professor,
+Department of Microbiology"	Received
+04-Oct-19	13:30 - 14:45	Session 3	Innovations in medical devices and diagnostics	Moderator	Dr Ravi Gaur	ravi.gaur@oncquest.net	91 9717698405	Yes	Yes	Yes	Yes	Oncquest laboratories	Chief Operating Officer	No presentation
+04-Oct-19	13:30 - 14:45	Session 3	Innovations in medical devices and diagnostics	Panelist 1	Dr Kamini Khillan	dakmok@gmail.com	91 9818248460	Yes	Yes	Yes	Yes	Sir Ganga Ram Hospital	Senior Consultant	No presentation
+04-Oct-19	13:30 - 14:45	Session 3	Innovations in medical devices and diagnostics	Panelist 2	Dr Sunita Chauhan	sunita.chauhan@monash.edu	61 399053551 , 61 403303473	Yes	Yes	Yes	Yes	Monash University	Director	No presentation
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+04-Oct-19	13:30 - 14:45	Session 3	Innovations in medical devices and diagnostics	Panelist 3	Rajesh R Singh	rsingh@wishfoundationindia.org	91 1143151600 , 91 9818184151	Yes	Yes	Yes	Yes	WISH Foundation	Chief Executive Officer	No presentation
+04-Oct-19	13:30 - 14:45	Session 3	Innovations in medical devices and diagnostics	Panelist 4	Dr Sanjay Sharma	dr.sanjay@gmail.com / sanjay@aptahealth.in	91 9980772658	Yes	Yes	Yes	No	Yostra Labs / APTA Health	Founder	No presentation
+04-Oct-19	13:30 - 14:45	Session 3	Innovations in medical devices and diagnostics	Panelist 5	Filipe Assoreira	filipe.assoreira@nano4global.com	351 919991500	Yes	No	No	Yes	Nano4	CEO	No presentation
+04-Oct-19	14:45 - 15:00	Post Session 3 Tea Break												
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+04-Oct-19	15:00 - 16:15	Session 4	InnovateHER: Inspiring Women Entrepreneurs in Healthcare	Keynote Address	Amb Katrin Kivi	"Katrin.Kivi@mfa.ee, embassy.delhi@mfa.ee"	91 8826586799	Yes	Yes	Yes	No	Embassy of Estonia to India	Ambassador	No presentation
+04-Oct-19	15:00 - 16:15	Session 4	InnovateHER: Inspiring Women Entrepreneurs in Healthcare	Moderator	Shriya Sethi	SSethi@uchicagotrust.org 	91 9999088831	Yes	Yes	Yes	Yes	International Innovation Corps	Director	No presentation
+04-Oct-19	15:00 - 16:15	Session 4	InnovateHER: Inspiring Women Entrepreneurs in Healthcare	Panelist 1	Dr Debleena Bhattacharya	debleena.bhattacharya@gmail.com	91 9934371312	Yes	Yes	Yes	Yes	MEFGI, Gujarat	Assistant Professor	No presentation
+04-Oct-19	15:00 - 16:15	Session 4	InnovateHER: Inspiring Women Entrepreneurs in Healthcare	Panelist 2	Preeti Rao	founder@weljii.com	91 9560891331	Yes	Yes	Yes	Yes	Wellji	Founder	No presentation
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+04-Oct-19	15:00 - 16:15	Session 4	InnovateHER: Inspiring Women Entrepreneurs in Healthcare	Panelist 3	Priya Prakash	priya.prakash@healthsetgo.com	91 9810155161	Yes	Yes	Yes	Yes	HealthSetGo	Founder and CEO	No presentation
+04-Oct-19	15:00 - 16:15	Session 4	InnovateHER: Inspiring Women Entrepreneurs in Healthcare	Panelist 4	Veena Sehgal	veena@cadencehub.com	91 9810166787	Yes	Yes	Yes	Yes	CadenceHub	Services provider	No presentation
+04-Oct-19	15:00 - 16:15	Session 4	InnovateHER: Inspiring Women Entrepreneurs in Healthcare	Panelist 5	Upasana Arora	upasana@yashodahospital.org	91 9958672740	Yes	Yes	Yes	Yes	Yashoda Super Speciality Hospitals	Director	No presentation
+04-Oct-19	16:15 - 18:00	Session 5	Innovator Pitches and Award	Presenter 1	Dr Sujay Deb	nishthaw@iiitd.ac.in	91 9650995845				Yes	Indraprastha Institute of Information Technology, Delhi		Not received
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+04-Oct-19	16:15 - 18:00	Session 5	Innovator Pitches and Award	Presenter 2	Yogesh Movendane	yogesh.m.2016.bt@rajalakshmi.edu.in	91 8939370296				Yes	Rajalakshmi college		Received
+04-Oct-19	16:15 - 18:00	Session 5	Innovator Pitches and Award	Presenter 3	Nishant Kathpal	nishant.kathpal@ayatidevices.com	91 8297109010				Yes	Ayati Devices		Received
+04-Oct-19	16:15 - 18:00	Session 5	Innovator Pitches and Award	Presenter 4	Priya Prakash	priya.prakash@healthsetgo.com	91 9810155161				Yes	HealthSetGo		Not received
+04-Oct-19	16:15 - 18:00	Session 5	Innovator Pitches and Award	Presenter 5	Sai Prasad	saiprasad.poyarekar@gmail.com	91 9551999642				Yes	Pacify Medical Technologies		Received
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+04-Oct-19	16:15 - 18:00	Session 5	Innovator Pitches and Award	Presenter 6	Ashish Sharma	ashishsharma8231@gmail.com	91 8269175658				Yes	NIT Raipur		Not received
+04-Oct-19	16:15 - 18:00	Session 5	Innovator Pitches and Award	Presenter 7	Vijay Shankar Kumawat	vijayshankar.kumawat@jaipur.manipal.edu	91 9001225135				Yes	Manipal University Jaipur		Not received
+04-Oct-19	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury member 1	Prof S Venkataramanaiah	svenkat@iiml.ac.in	91 8130831100	Yes	Yes	Yes	Yes	IIM Lucknow	Associate Professor	No presentation
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+04-Oct-19	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury member 2	Dr Saurabh Gupta	sgupta.bme@nitrr.ac.in	91 7389727963	Yes	Yes	Yes	Yes	NIT Raipur	Assistant Professor	No presentation
+04-Oct-19	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury member 3	Dr Mohit Gambhir	mohit.gambhir@gov.in	91 9810341200	Yes	Yes	Yes	Yes	MHRD Innovation Cell	Innovation Director	No presentation
+04-Oct-19	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury member 4	Manish	manish@leadangels.in	91 9982744411	Yes	Yes	Yes	Yes	Lead Angels		No presentation
+04-Oct-19	16:15 - 18:00	Session 5	Innovator Pitches and Award	Guest of Honor for the award										
+														
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation														
+05-Oct-19	9:30 - 10:45	Session 6	Fighting diabetes with technological innovations	Keynote Address	Annie Chandy	annie.chandy@innovation.lu.se	46 7024697979	Yes	Yes	Yes	Yes	Lund University		Not received
+05-Oct-19	9:30 - 10:45	Session 6	Fighting diabetes with technological innovations	Moderator	Dr Arjun Dang	drarjundang@drdangslab.com	91 9810541827	Yes	Yes	Yes	Yes	Dr. Dangs Lab	Associate Lab Director	No presentation
+05-Oct-19	9:30 - 10:45	Session 6	Fighting diabetes with technological innovations	Panelist 1	Dr Shikha Sharma	md.office@nutrihealthsystems.com	91 9871100237	Yes	Yes	Yes	Yes	Dr Shikha?s NutriHealth	Founder & Managing Director	No presentation
+05-Oct-19	9:30 - 10:45	Session 6	Fighting diabetes with technological innovations	Panelist 2	Dr Debbie Wake	debbie.wake@mwdh.co.uk	44 7904154101	Yes	Yes	Yes	Yes	MyWay Digital Health	CEO and Chief Medical Officer	No presentation
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+05-Oct-19	9:30 - 10:45	Session 6	Fighting diabetes with technological innovations	Panelist 3	Dr S B Sinha	sbsinha@hotmail.com	91 9210473793 , 91 9968555603	Yes	Yes	Yes	Yes	Biomedical Engineering Society of India	President	No presentation
+05-Oct-19	9:30 - 10:45	Session 6	Fighting diabetes with technological innovations	Panelist 4	Dr Alok Chopra	dralokchopra@gmail.com	91 9810731553	Yes	Yes	Yes	Yes	Daivam Wellness	Founder & Medical Director	No presentation
+05-Oct-19	9:30 - 10:45	Session 6	Fighting diabetes with technological innovations	Panelist 5	Dr Anuradha Aggarwal Monga	anuradha.monga@phfi.org	91 9868414455	Yes	Yes	Yes	No	PHFI		No presentation
+05-Oct-19	10:45 - 11:00	Post Session 6 Tea break
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+05-Oct-19	11:00 - 12:15	Session 7	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Keynote Address	Tanya Spisbah	tspiz@hotmail.com	VK sir will give	Yes	Yes	Yes	Yes	Australia India Institute	Director	Not received
+05-Oct-19	11:00 - 12:15	Session 7	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Moderator	Jaanus Pikani	jaanus.pikani@ghrp.ee	91 8745944573	Yes	Yes	Yes	Yes	Tartu Biotechnology Park	Chairman	No presentation
+05-Oct-19	11:00 - 12:15	Session 7	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Panelist 1	Yash Dadhwadia	yashdadhwadia@gmail.com	91 9783081428	Yes	Yes	Yes	No			No presentation
+05-Oct-19	11:00 - 12:15	Session 7	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Panelist 2	Dr Jukka Holappa	Jukka.Holappa@businessfinland.fi	91 7290006574	Yes	Yes	Yes	Yes	Country Manager India at Business Finland	Commercial Counsellor	No presentation
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+05-Oct-19	11:00 - 12:15	Session 7	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Panelist 3	Sharda Balaji	sharda@novojuris.com	91 9900218660	Yes	Yes	Yes	No	Novojuris	Founder	No presentation
+05-Oct-19	11:00 - 12:15	Session 7	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Panelist 4	Dr Shiban Ganju	skganju@aol.com	91 9845779395	Yes	Yes	Yes	Yes	Save A Mother Foundation	Founder	No presentation
+05-Oct-19	12:15 - 13:30	Session 8	Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence	Keynote Address	Dr Vidur Mahajan	vidurm1986@gmail.com / vidur@mahajanimaging.com	91 9871438999	Yes	No	No	No	Mahajan Imaging	Associate Director and Head of R&D	Not received
+05-Oct-19	12:15 - 13:30	Session 8	Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence	Moderator	Bhaskar Motouru	Bhaskar.Motouru@allscripts.com 	91 8071217209	Yes	No	No	No	AllScripts	Manager Development	No presentation
+05-Oct-19	12:15 - 13:30	Session 8	Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence	Panelist 1	Yasha Hasija	yashahasija06@gmail.com	91 9810691253	Yes	Yes	Yes	Yes	Delhi Technological University	Associate Professor	No presentation
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+05-Oct-19	12:15 - 13:30	Session 8	Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence	Panelist 2	Sharad Kumar	sharad.kumar@nurithmlabs.tech	91 9871876653	Yes	Yes	Yes	Yes	NXP India Pvt. Limited	Engineering Director	No presentation
+05-Oct-19	12:15 - 13:30	Session 8	Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence	Panelist 3	Jacky Ovadia	Jacky@jackyovadia.com	972 544676754	Yes	Yes	Yes	Yes	IDEA (Business Development and Medical Tourism Marketing)	General Manager	No presentation
+05-Oct-19	12:15 - 13:30	Session 8	Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence	Panelist 4	Sayantan Chatterjee	sayantan.chatterjee@pwc.com	9971915709 , 91 8851841049	Yes	Yes	Yes	Yes	PwC India	Director & Management Consultant"	No presentation
+05-Oct-19	12:15 - 13:30	Session 8	Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence	Panelist 5	Dr Amit Raj	raj10amit@gmail.com , amit@cardia.care	91 7742321218	Yes	Yes	Yes	Yes	Cardia Care		No presentation
+05-Oct-19	13:30 - 14:15	Post Seesion 8 Lunch break
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+05-Oct-19	14:15 - 15:30	Session 9	Innovation Pitches from Global and Indian Companies	Company pitch 1	Filipe Assoreira	filipe.assoreira@nano4global.com	351 919991500	Yes	No	No	Yes	Nano4	CEO	Not received
+05-Oct-19	14:15 - 15:30	Session 9	Innovation Pitches from Global and Indian Companies	Company pitch 2	Dr. Sanjay Sharma	dr.sanjay@gmail.com / sanjay@aptahealth.in	91 9980772658	Yes	Yes	Yes	No	Yostra Labs / APTA Health	Founder	Received
+05-Oct-19	14:15 - 15:30	Session 9	Innovation Pitches from Global and Indian Companies	Company pitch 3	Dr. Gauri Agarwal	dr.gauriagarwalsoi@gmail.com / magpetgirl@gmail.com	91 9810033483	Yes	Yes	No	No	Seeds of Innocence Fertility Clinic and Genestrings ? Genetic Lab	Director & Chief IVF consultant	Not received
+05-Oct-19	14:15 - 15:30	Session 9	Innovation Pitches from Global and Indian Companies	Company pitch 4	Prof Jayan	allan@antobel.com	91 9003451861	Yes	Yes	No	No	Noorul Islam / Antobel solutions		Not received
+05-Oct-19	14:15 - 15:30	Session 9	Innovation Pitches from Global and Indian Companies	Company pitch 5	Brig (Dr) A K Tyagi	oncocdosurgeon@gmail.com	91 8800845203	Yes	Yes	No	No	Yashoda Cancer Institute	HOD	Received
+
+
+Date	Timing	Session Number or break	Session Name	Participant type	Speaker Name	Speaker Email	Speaker phone number (Add +)	Consent(confirmed / not confirmed)	Did speaker communicate his/her profile? (Yes / No)	Profile uploaded on website? (Yes / No)	Speaker registered via cvent? (Yes / No)	Organisation	Designation	Presentation
+05-Oct-19	14:15 - 15:30	Session 9	Innovation Pitches from Global and Indian Companies	Expert panelist 1	Sharda Balaji	sharda@novojuris.com	91 9900218660	Yes	Yes	Yes	No	Novojuris	Founder	
+05-Oct-19	14:15 - 15:30	Session 9	Innovation Pitches from Global and Indian Companies	Expert panelist 2	Ashutosh Pastor	bbif.fitt@gmail.com	91 9718877312	Yes	Yes	Yes	No	Indian Institute of Technology - Delhi	Manager - Incubation	
+05-Oct-19	14:15 - 15:30	Session 9	Innovation Pitches from Global and Indian Companies	Expert panelist 3	Prarthana Gandhi	prarthana@anamayacapital.com	91 9925009793	Yes	No	No	Yes	anAmaya Capital LLP	Partner	
+05-Oct-19	14:15 - 15:30	Session 9	Innovation Pitches from Global and Indian Companies	Expert panelist 4	Adarsh Sharma	adarsh@adarshca.com		Yes	No	No	No	Adarsh Sharma & Co.	Independent consultant
+05-Oct-19	15:30 onwards	Session 10	Valedictory and Tea & Meetups	
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered	
+5th-Oct-18	9:00 - 10:00	Registration									
+5th-Oct-18	10:00 - 10:45	Session 1	Inaugural								
+5th-Oct-18	10:00 - 10:45	Session 1	Inaugural	Setting the tone 	Dr V K Singh	vksingh@innovatiocuris.com	 	Confirmed	Uploaded		
+5th-Oct-18	10:00 - 10:45	Session 1	Inaugural	Guest of Honor	H.E. Klas Molin,  Ambassador of Sweden to India	yasmin.zaveri-roy@gov.se 		Confirmed			
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered
+5th-Oct-18	10:00 - 10:45	Session 1	Inaugural	Keynote Address	Prof. Anil Kumar Gupta	anilgb@gmail.com		Confirmed	Uploaded		
+5th-Oct-18	10:00 - 10:45	Session 1	Inaugural	Special Invitee	Srijan Pal Singh	srijanpalsingh@gmail.com	Parthvee to call				
+5th-Oct-18	10:00 - 10:45	Session 1	Inaugural	Vote of Thanks 	Sachin Gaur	sachin@innovatiocuris.com	   	Confirmed	Uploaded		
+5th-Oct-18	10:45 - 11:15	Tea Break
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered										
+5th-Oct-18	11:15 - 12:45	Session 2	Innovations for Hospitals								
+5th-Oct-18	11:15 - 12:45	Session 2	Innovations for Hospitals	Keynote Address	Chris Lloyd	chris.lloydmusician@gmail.com		Confirmed	Uploaded		Put Keynote in agenda
+5th-Oct-18	11:15 - 12:45	Session 2	Innovations for Hospitals	Moderator	Dr Vijay Agarwal	vijayagar@gmail.com		Confirmed	Uploaded		
+5th-Oct-18	11:15 - 12:45	Session 2	Innovations for Hospitals	Speaker 1	Brig U B Mishra 	ubmisra@hotmail.com		Confirmed	Uploaded		
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered
+5th-Oct-18	11:15 - 12:45	Session 2	Innovations for Hospitals	Speaker 2	Dr Chandy Abraham	chandy63@hotmail.com		Confirmed	Uploaded		
+5th-Oct-18	11:15 - 12:45	Session 2	Innovations for Hospitals	Speaker 3	Dr Arati Verma	averma@maxhealthcare.com		Confirmed	Uploaded		
+5th-Oct-18	11:15 - 12:45	Session 2	Innovations for Hospitals	Speaker 4	Kah Yee	kahyee@unitedcrest.com		Confirmed	Uploaded		
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered
+5th-Oct-18	11:15 - 12:45	Session 2	Innovations for Hospitals	Speaker 5	Dr Gurmukh Advani	gurmukh.advani@getinge.com		Confirmed	Uploaded		
+5th-Oct-18										
+5th-Oct-18	12:45 - 13:30	Lunch Break
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered										
+5th-Oct-18	13:30 - 14:45	Session 3	Make in India opportunities: BioTech, Medical Devices and Future Technologies								
+5th-Oct-18	13:30 - 14:45	Session 3	Make in India opportunities: BioTech, Medical Devices and Future Technologies	Keynote Address	Ajit Rangnekar	dg-rich@telangana.gov.in		Confirmed	Uploaded		
+5th-Oct-18	13:30 - 14:45	Session 3	Make in India opportunities: BioTech, Medical Devices and Future Technologies	Moderator	Rajiv Nath	forumcoordinator@aimedindia.com		Confirmed	Uploaded		
+5th-Oct-18	13:30 - 14:45	Session 3	Make in India opportunities: BioTech, Medical Devices and Future Technologies	Panelist 1	Prof Venkat	svenkat@iiml.ac.in		Confirmed	Uploaded		
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered
+5th-Oct-18	13:30 - 14:45	Session 3	Make in India opportunities: BioTech, Medical Devices and Future Technologies	Panelist 2	Alap Gandhi	alap.s.gandhi@gsk.com		Confirmed	Uploaded		
+5th-Oct-18	13:30 - 14:45	Session 3	Make in India opportunities: BioTech, Medical Devices and Future Technologies	Panelist 3	Dr Bhupesh Sharma	sritbi@shriraminstitute.org		Confirmed	Uploaded		
+5th-Oct-18	13:30 - 14:45	Session 3	Make in India opportunities: BioTech, Medical Devices and Future Technologies	Panelist 4	Dr. Dev Raj Jindal	devraj.Jindal@phfi.org		Confirmed	Uploaded		
+5th-Oct-18	13:30 - 14:45	Session 3	Make in India opportunities: BioTech, Medical Devices and Future Technologies	Panelist 5	Dr Sanjay Sharma	dr.sanjay@gmail.com		Confirmed	Uploaded		
+5th-Oct-18	13:30 - 14:45	Session 3	Make in India opportunities: BioTech, Medical Devices and Future Technologies	Panelist 6	Nidhi Basavaraj Gani	nid.gani@gmail.com		Confirmed	Uploaded		
+5th-Oct-18	14:45 - 15:00	Tea Break
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered										
+5th-Oct-18	15:00 - 16:15	Session 4	Partner State Session: Achieving Universal Health Coverage, Insurance Led Innovations and AYUSH								
+5th-Oct-18	15:00 - 16:15	Session 4	Partner State Session: Achieving Universal Health Coverage, Insurance Led Innovations and AYUSH	Keynote Address	Dr James P Kingsland OBE	james.kingsland@nhs.net 		Confirmed	Uploaded		
+5th-Oct-18	15:00 - 16:15	Session 4	Partner State Session: Achieving Universal Health Coverage, Insurance Led Innovations and AYUSH	Moderator	Prerak Sethi 	preraksethi@gmail.com		Confirmed	Uploaded	9711197066	
+5th-Oct-18	15:00 - 16:15	Session 4	Partner State Session: Achieving Universal Health Coverage, Insurance Led Innovations and AYUSH	Panelist 1	Dr Shiban Ganju	shibang3@gmail.com		Confirmed 	Uploaded		
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered
+5th-Oct-18	15:00 - 16:15	Session 4	Partner State Session: Achieving Universal Health Coverage, Insurance Led Innovations and AYUSH	Panelist 2	Pankaj Sindhu	pankajsindhu08@gmail.com		Confirmed	Uploaded		
+5th-Oct-18	15:00 - 16:15	Session 4	Partner State Session: Achieving Universal Health Coverage, Insurance Led Innovations and AYUSH	Panelist 3	Dr Ram Gulati	dr_ramgulati@yahoo.com		Confirmed	Uploaded		
+5th-Oct-18	15:00 - 16:15	Session 4	Partner State Session: Achieving Universal Health Coverage, Insurance Led Innovations and AYUSH	Panelist 4	Dr Bishal Dhakal	drbishaldhakal@gmail.com		Confirmed	Uploaded		
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered
+5th-Oct-18	15:00 - 16:15	Session 4	Partner State Session: Achieving Universal Health Coverage, Insurance Led Innovations and AYUSH	Panelist 5	Dr Nagendra Swamy	swamynagendra@gmail.com		Confirmed	Uploaded		
+5th-Oct-18	15:00 - 16:15	Session 4	Partner State Session: Achieving Universal Health Coverage, Insurance Led Innovations and AYUSH	Panelist 6	Vaidyanathan Ramani	ramani@policybazaar.com		Confirmed	Uploaded		
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered								
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury members							
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury members	Dr Shirshendu Mukherjee	mdpmubmgf.birac@nic.in		Confirmed	Uploaded		
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury members	Biten Katharani	biten.kathrani@bsci.com		Confirmed	Uploaded		
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury members	Saurabh Gupta	sgupta.bme@nitrr.ac.in		Confirmed	Uploaded		
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury members	S B Sinha	ShashiBhushan.Sinha@nhsrcindia.org		Confirmed	Uploaded		
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury members	Dr Usha Dixit 	usha.dixit@nic.in		Confirmed	Uploaded	
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered		
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury members	Prof Venkataramanaiah	svenkat@iiml.ac.in		Confirmed	Uploaded		
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury members	Dr Bijender Singh	dhillonbrijen@yahoo.com		Confirmed	Uploaded		
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury members	Dr Mohit Gambhir	mohitgambhir@gmail.com		Confirmed	Uploaded		
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	Award Jury members	Saumya Gaur	saumyag@unitus.vc 					
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	Guest of Honor for the award	H.E. Riho Kruuv	riho.kruuv@mfa.ee		Confirmed			
+5th-Oct-18	16:15 - 18:00	Session 5	Innovator Pitches and Award	
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered								
+6th-Oct-18											
+6th-Oct-18	8:00 - 9:00	Meditation Session	The divine google to health & happiness	Special Guest	Dr Satish Kr Gupta	3dhealthcare@gmail.com		Confirmed	Uploaded		
+6th-Oct-18	8:00 - 9:00	Meditation Session									
+6th-Oct-18	9:00 - 9.30	Session 6 	The Ultimate Solution for all Non communicable Diseases-3 Dimensional Healthcare	Session Chair	Jesper Vibe-hansen	jesvib@um.dk		Confirmed			
+6th-Oct-18	9:00 - 9.30	Session 6 	The Ultimate Solution for all Non communicable Diseases-3 Dimensional Healthcare	Special Guest	Dr Satish Kr Gupta	3dhealthcare@gmail.com		Confirmed	Uploaded		
+6th-Oct-18
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered												
+6th-Oct-18	9:30 - 10:45	Session 7	Advances in Diagnostics								
+6th-Oct-18	9:30 - 10:45	Session 7	Advances in Diagnostics	Keynote Address	Arvind Lal	Arvind.Lal@lalpathlabs.com		Confirmed 	Uploaded		
+6th-Oct-18	9:30 - 10:45	Session 7	Advances in Diagnostics	Moderator	Dr Ravi Gaur	ravi.gaur@oncquest.net		Confirmed 	Uploaded		
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered
+6th-Oct-18	9:30 - 10:45	Session 7	Advances in Diagnostics	Panelist 1	Vidur Mahajan	vidur@mahajanimaging.com		Confirmed 	Uploaded		
+6th-Oct-18	9:30 - 10:45	Session 7	Advances in Diagnostics	Panelist 2	Dr Richa Dayal	richa4cg@gmail.com		Confirmed 	Uploaded		
+6th-Oct-18	9:30 - 10:45	Session 7	Advances in Diagnostics	Panelist 3	Anoop Shaji	anoopshajibdstd@gmail.com		Confirmed 	Uploaded		
+6th-Oct-18	9:30 - 10:45	Session 7	Advances in Diagnostics	Panelist 4	Pavan Aslapuram	pavan@empediagnostics.com		Confirmed	Uploaded		
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered	
+6th-Oct-18											
+6th-Oct-18	10:45 - 11:00	Tea									
+6th-Oct-18	11:00 - 12:15	Session 8	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges								
+6th-Oct-18	11:00 - 12:15	Session 8	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Keynote Address	Rajiv Agarwal	rajiv.aggarwal@nic.in	Invest India to confirm	 			
+6th-Oct-18	11:00 - 12:15	Session 8	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Moderator	Paul Lillrank	paul.lillrank@aalto.fi		Confirmed	Uploaded		
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered		
+6th-Oct-18	11:00 - 12:15	Session 8	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Panelist 1	Sohini Mandal	sohini@novojuris.com		Confirmed	Uploaded		
+6th-Oct-18	11:00 - 12:15	Session 8	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Panelist 2	Jaanus Pikani	jaanus.Pikani@globalpharma.ee		Confirmed	Uploaded		
+6th-Oct-18	11:00 - 12:15	Session 8	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Panelist 3	Kripa Gopalan	kripa.gopalan@intellecap.net		Confirmed			
+6th-Oct-18	11:00 - 12:15	Session 8	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Panelist 4	Iris Ohrn	Iris.Ohrn@businessregion.se		Confirmed	Uploaded	
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered		
+6th-Oct-18	11:00 - 12:15	Session 8	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Panelist 5	Ankit Bahl	Ankit.Bahl@eas.ee		Confirmed	Uploaded		
+6th-Oct-18	11:00 - 12:15	Session 8	India EU Collaboration in HEALTH Sector: Startup Opportunities and Challenges	Panelist 6	Molshree Pandey	molpan@um.dk		Confirmed	Uploaded		
+6th-Oct-18	12:15 - 13:30	Session 9	Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence								
+6th-Oct-18	12:15 - 13:30	Session 9	Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence	Keynote Address	Sumit Puri	Sumit.Puri@maxhealthcare.com		Confirmed	Uploaded		
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered		
+6th-Oct-18	12:15 - 13:30	Session 9	Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence	Moderator	Raghuram Janapareddy	raghuram@mail.nasscom.in		Confirmed	Uploaded		
+6th-Oct-18	12:15 - 13:30	Session 9	Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence	Panelist 1	Nilesh Jain	nilesh@clinivantage.com		Confirmed	Uploaded		
+6th-Oct-18	12:15 - 13:30	Session 9	Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence	Panelist 2	Ashish Gupta	"
+ashish@docprime.com"		Confirmed	Uploaded	
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered		
+6th-Oct-18	12:15 - 13:30		Digital Health: Giving birth to new delivery models through Mobile, IoT, Block Chain and Artificial Intelligence	Panelist 3	Sanjay Kumar Jain	sanjay.jain@akhilsystems.com		Confirmed			
+6th-Oct-18											
+6th-Oct-18											
+6th-Oct-18	13:30 - 14:15	Lunch									
+
+
+Date	Timing	            Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered
+6th-Oct-18	14:15 - 15:30	Session 10	Innovation Pitches from Global and Indian Companies								
+6th-Oct-18	14:15 - 15:30	Session 10	Companies' pitching	DocOnline Health India Pvt. Ltd.	Ajit Nair 	ajit.nair@doconline.com		Confirmed	Registered		
+6th-Oct-18	14:15 - 15:30	Session 10	Companies' pitching	EMPE Diagnostics	Pavan Asalapuram	pavan@empediagnostics.com		Confirmed	Registered		
+6th-Oct-18	14:15 - 15:30	Session 10	Companies' pitching	HealthCubed India Private Limited	Sridhar Ramanathan	sridhar.ramanathan@healthcubed.com		Confirmed	Registered
+
+
+Date	Timing	        Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered			
+6th-Oct-18	14:15 - 15:30	Session 10	Companies' pitching	HealthCubed India Private Limited	Dr pavan varma						
+6th-Oct-18	14:15 - 15:30	Session 10	Companies' pitching	Expert Panel	Adarsh Sharma 	adarsh@adarshca.com		Confirmed			
+6th-Oct-18	14:15 - 15:30	Session 10	Companies' pitching	Expert Panel	Sohini Mandal	sohini@novojuris.com		Confirmed			
+
+
+Date	Timing	            Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered
+6th-Oct-18	14:15 - 15:30	Session 10	Companies' pitching	Expert Panel	Nidhi Gani	nid.gani@gmail.com		Confirmed			
+6th-Oct-18	14:15 - 15:30	Session 10	Companies' pitching	Expert Panel	Dr Vidur Mahajan	vidur@mahajanimaging.com		Confirmed			
+6th-Oct-18	14:15 - 15:30	Session 10	Companies' pitching	Expert Panel	Vishal Gandhi	vishal.gandhi@biorxventureadvisors.com		Confirmed			
+6th-Oct-18	14:15 - 15:30	Session 10	Companies' pitching	Expert Panel	Dr Ravi Gaur	ravi.gaur@oncquest.net		Confirmed	
+
+
+Date	Timing	            Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered			
+6th-Oct-18	14:15 - 15:30	Session 10	Companies' pitching	Expert Panel	Kshitij Chaudhary	kshitij.chaudhary@investindia.org.in		Confirmed			
+6th-Oct-18											
+6th-Oct-18											
+6th-Oct-18	15:30 - 16:00	Session 11	Valedictory and Tea								
+6th-Oct-18	16:00 onwards	Session 12	Meetups								
+
+
+Date	Timing	            Session No	Session Name Speaker Type    Speaker Name	Speaker Email	          Status	Consent	Profile	Speaker registered
+6th-Oct-18	16:00 onwards	Session 12	Meetups	Table 1	How healthcare providers can offset cost of implementing EHR with revenue generation by helping researchers across the globe in medical innovation for better health of the population.	meghaa@umed.org		Confirmed	Registered		
+6th-Oct-18	16:00 onwards	Session 12	Meetups	Table 2	Cyber4Health	satyendra@mixorg.com		Confirmed	Registered		
+6th-Oct-18	16:00 onwards	Session 12	Meetups	Table 3	Digital marketing in healthcare	shivank@mixorg.com		Confirmed	Registered		
+6th-Oct-18	16:00 onwards	Session 12	Meetups	Table 4	Wellness Coaching for sustainable behavior change for prevention and management of lifestyle diseases.	Founder@weljii.com		Confirmed	Registered	
+
+
+Timings	Session No	Proposed Session Names/Focus	Speaker Names	Confirmation status	Bio receipt status	Bio on website
+10:00 - 13:00		Workshop for Clinicians and Registration in parallel 	Dr. Tavpritesh Sethi, Dr. Gitanjali Yadav, Pradeep Singh (Ph.D. Candidate, IIITD)			
+13:00 - 14:00		lunch break				
+14:00 - 16:00	Session 1	Inaugural				
+14:00 - 16:00	Session 1	Introduction to InnoHEALTH, CoE Healthcare@IIITD	Dr V K Singh, Dr Tavpritesh Sethi			
+
+
+Timings	        Session No	Proposed Session Names/Focus	Speaker Names	Confirmation status	Bio receipt status	Bio on website
+14:00 - 16:00	Session 1	Keynote Session	Dr V K Paul			
+14:00 - 16:00	Session 1	Break				
+14:00 - 16:00	Session 1	Invited Talk 1	Possibly Dr. Anurag Agrawal			
+14:00 - 16:00	Session 1	Invited Talk 2	Shipra Mishra, CEO & MD, Delhi Science and Technology Cluster (confirmed), ceo@driiv.co.in	Confirmed	Received	Pending
+
+
+Timings	        Session No	Proposed Session Names/Focus	Speaker Names	Confirmation status	Bio receipt status	Bio on website
+14:00 - 16:00	Session 1	Invited Talk 3	Linked to Public Health / Digital health vision			
+16:00 - 16:30	Session 1	tea break				
+16:30 - 17:30	Session 2	Invited talks on Digital Health Implementation / Case Study 				
+16:30 - 17:30	Session 2	Possible presentation from NDHM / Policy Makers / Think Tank	Possibly Dr. Kanwar Vishal Singh/Rajesh Ranjan Singh			
+
+
+Timings	        Session No	Proposed Session Names/Focus	Speaker Names	Confirmation status	Bio receipt status	Bio on website
+16:30 - 17:30	Session 2	Possible presentation from a large healthcare provider (Apollo / Max) 	Dr. Sujoy Kar (confirmed) drsujoy_k@apollohospitals.com	Confirmed	Awaiting	Pending
+16:30 - 17:30	Session 2	Possible presentation by a large private company ( Tata Digital Health / Mfine etc) 	Possibly Madhav Joshi CEO, India Health Fund, madhav@indiahealthfund.org			
+16:30 - 17:30	Session 2	Q&A				
+
+
+Timings	        Session No	Proposed Session Names/Focus	Speaker Names	Confirmation status	Bio receipt status	Bio on website
+17:45 - 19:00	Session 3	AI / SaMD implementation challenges and opportunities 				
+17:45 - 19:00	Session 3	one speaker from clinical side giving insight on implementation challenges and ongoing usage	Vidur Mahajan			
+17:45 - 19:00	Session 3	panel discussion with AI developers, clinical speakers, academic researchers and Hospital management on requirements and future directions	Possibly - Dr. Tavpritesh Sethi, Dr. Rakesh Lodha (AIIMS), Dr. Sujoy Kar, 	Dr. Rakesh Lodha - confirmed	Awaiting	Pending

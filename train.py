@@ -16,21 +16,27 @@ from langchain.vectorstores import Chroma
 from pathlib import Path
 
 
+
+
 load_dotenv(Path("./.env"))
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
-loader = TextLoader('context.txt')
+loader = TextLoader('inno.txt', 'utf-8')
 embeddings = OpenAIEmbeddings()
 
 
 
 index = VectorstoreIndexCreator(
     # split the documents into chunks
-    text_splitter=CharacterTextSplitter(chunk_size=1000, chunk_overlap=200,),
+    text_splitter=CharacterTextSplitter(chunk_size=900, chunk_overlap=0,),
     # select which embeddings we want to use
     embedding=embeddings,
     # use Chroma as the vectorestore to index and search embeddings
     vectorstore_cls=Chroma,
     vectorstore_kwargs={"persist_directory": "vectorStore", "collection_name":"my_collection"}
 ).from_loaders([loader])
+
+
+
+
 
 

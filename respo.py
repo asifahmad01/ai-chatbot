@@ -14,7 +14,7 @@ from flask_cors import CORS
 from dotenv import load_dotenv
 from pathlib import Path
 
-
+#import weaviate
 
 load_dotenv(Path("./.env"))
 app = Flask(__name__)
@@ -23,8 +23,8 @@ CORS(app)
 # Set API key
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
-# Initialize the model
-#chatgpt = ChatOpenAI(model_name='gpt-3')
+
+
 
 
 @app.route('/')
@@ -38,8 +38,9 @@ def chat():
 
     os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
     vectordb = Chroma(persist_directory = 'vectorStore' ,collection_name="my_collection",embedding_function = OpenAIEmbeddings())
-    retriever = vectordb.as_retriever()
-    qa = RetrievalQA.from_chain_type(llm=OpenAI(),chain_type="stuff",retriever = retriever)
+    retriever = vectordb.as_retriever(search_kwargs={'k':8})
+    chatgpt = ChatOpenAI(model_name='gpt-4', temperature=1.2)
+    qa = RetrievalQA.from_chain_type(llm=chatgpt,chain_type="stuff",retriever = retriever)
     response = qa.run(query)
 
     return jsonify({'botResponse': response})
